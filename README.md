@@ -1,7 +1,7 @@
 # LifeSavAR: An AR First Aid Guide
 
 ## Overview
-LifeSavAR is an innovative Augmented Reality (AR) and Mixed Reality application tailored for Android and HoloLens2 platforms. It's designed to assist in emergency medical situations, offering guidance for CPR and Automated External Defibrillator (AED) usage, making it an essential tool for those individuals with limited or no medical training.
+LifeSavAR is an innovative Augmented Reality (AR) and Mixed Reality application tailored for Android and HoloLens2 platforms. It's designed to assist in emergency medical situations, offering guidance for CPR usage, making it an essential tool for those individuals with limited or no medical training.
 
 ## Key Features
 - **Platform Compatibility:** Fully deployable on Android devices and HoloLens 2 for wide accessibility.
